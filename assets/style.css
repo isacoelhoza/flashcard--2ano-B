@@ -1,0 +1,38 @@
+body {
+background-color: aquamarine;
+font-family: Bai jumjuree
+}
+
+#container {
+display: flex ;
+}
+
+.cartao{
+    margin: iren iren
+background-color blueviolet;
+height: 20cm;
+flex-grow: 1;
+flex-basis: calc(33% - 3rem);
+}
+
+.cartao__conteudo {
+text-align: center;
+
+height: 100%
+}
+
+.cartao__conteudo
+
+
+
+
+
+
+
+
+
+footer {
+background-color: black;
+color: blue;
+
+}
